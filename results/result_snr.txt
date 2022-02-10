@@ -1,0 +1,106 @@
+augment = 5
+1. snr = 2000
+Total test samples:  1470 
+
+Training acc:  0.9801020408163266 
+
+Testing Acc:  0.9809523809523809 
+
+Training time:  1.5546314716339111 
+
+Preparing time:  0.2511780261993408 
+
+Testing time:  0.2629117965698242 
+
+Predicted result:  [21.  7. 24. ...  7. 30. 10.] 
+
+2. snr = 800
+Total test samples:  1470 
+
+Training acc:  0.9801020408163266 
+
+Testing Acc:  0.9809523809523809 
+
+Training time:  1.5158700942993164 
+
+Preparing time:  0.3156414031982422 
+
+Testing time:  0.2552528381347656 
+
+Predicted result:  [21.  7. 24. ...  7. 30. 10.] 
+
+3. snr = 200
+Total test samples:  1470 
+
+Training acc:  0.9801020408163266 
+
+Testing Acc:  0.9809523809523809 
+
+Training time:  1.7139701843261719 
+
+Preparing time:  0.2546365261077881 
+
+Testing time:  0.2873222827911377 
+
+Predicted result:  [21.  7. 24. ...  7. 30. 10.] 
+
+4. snr = 80
+Total test samples:  1470 
+
+Training acc:  0.9801020408163266 
+
+Testing Acc:  0.9809523809523809 
+
+Training time:  8.45707654953003 
+
+Preparing time:  0.3430910110473633 
+
+Testing time:  1.3452653884887695 
+
+Predicted result:  [21.  7. 24. ...  7. 30. 10.] 
+
+5. snr = 40
+Total test samples:  1470 
+
+Training acc:  0.9812925170068028 
+
+Testing Acc:  0.8142857142857143 
+
+Training time:  12.195870876312256 
+
+Preparing time:  0.25150346755981445 
+
+Testing time:  1.7664315700531006 
+
+Predicted result:  [21.  7. 24. ...  7. 30. 10.] 
+
+6. snr = 20
+
+Total test samples:  1470 
+
+Training acc:  0.9874149659863946 
+
+Testing Acc:  0.0727891156462585 
+
+Training time:  13.765496492385864 
+
+Preparing time:  0.25665974617004395 
+
+Testing time:  2.0312659740448 
+
+Predicted result:  [4. 4. 4. ... 4. 4. 4.] 
+
+7. snr = 10
+Total test samples:  1470 
+
+Training acc:  0.9875850340136054 
+
+Testing Acc:  0.05646258503401361 
+
+Training time:  13.408340454101562 
+
+Preparing time:  0.2634546756744385 
+
+Testing time:  2.054839611053467 
+
+Predicted result:  [4. 4. 4. ... 4. 4. 4.] 

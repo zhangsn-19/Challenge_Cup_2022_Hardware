@@ -6,7 +6,7 @@
 
 手机与服务器之间的Socket通信利用socket_receiver.py
 
-最终蓝牙板烧录的程序为Bluno_Beetle_test2，现在每一帧读取四个传感器数据，FPS=50
+最终蓝牙板烧录的程序为Bluno_Beetle_test2，现在每一帧读取四个传感器数据，FPS=20
 
 补充电路原理如下图：
 

@@ -2,6 +2,18 @@
 
 ### Update
 
+#### 2022.02.21
+
+最终蓝牙板烧录的程序为Bluno_Beetle_test2，现在每一帧读取四个传感器数据，FPS=50
+
+补充电路原理如下图：
+
+![image](https://user-images.githubusercontent.com/76198318/154879477-7b03cf7c-e56b-4b49-9fdc-b767a23d0532.png)
+
+手机壳图片如下：
+
+![IMG_20220219_164006](https://user-images.githubusercontent.com/76198318/154879637-9002d6f9-65f0-4060-900e-a37c71d1ad9a.jpg)
+
 #### 2022.02.11
 
 增加了蓝牙主控板Bluno Beetle BLE与手机蓝牙通讯的demo。Android设备需要安装BlunoBasicDemo.apk，打开**蓝牙**和**位置信息**之后点击`Scan`搜索设备。使用手机自带的蓝牙搜索无效。过快地实时传输数据会混乱。
